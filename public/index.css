@@ -1,0 +1,11 @@
+body{
+    background-image: url(img/board.jpeg);
+    background-size: cover;
+}
+h1{
+    color: crimson;
+}
+div .jumbotron.text-center{
+    color: red;
+    background-color: rgb(19, 97, 19);
+}

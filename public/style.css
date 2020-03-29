@@ -1,0 +1,38 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url(img/redback.jpeg);
+  color: lawngreen;
+}
+img{
+  height: 200px;
+}
+#gameButton{
+  height:44;
+  width:30;
+  border-radius: 50%;
+}
+form{
+  align-content: center;
+}
+h1{
+  text-align: center;
+}
+#rouletteBoard{
+  height:360px;
+  width: 66%;
+  border: 1px solid green;
+  float: right;
+}
+img{
+  float: right;
+}
+/* .red{
+  border: 1px solid green;
+  height: 114px solid green;
+  width: 12%
+  float: left;
+} */
+/* div .jumbotron.text-center{
+  background-image: url(img/moving.gif);
+} */
